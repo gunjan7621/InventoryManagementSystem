@@ -17,7 +17,7 @@ Requirements
 	bash
 	Copy
 	Edit
-	git clone https://github.com/yourusername/inventory-management-tkinter.git
+	git clone  https://github.com/gunjan7621/InventoryManagementSystem.git
 Navigate to the project directory:
 	bash
 	Copy
@@ -49,4 +49,4 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
-For any questions or suggestions, feel free to reach out to me at [your-email@example.com].
+For any questions or suggestions, feel free to reach out to me at gunjanrawal7621@gmail.com
